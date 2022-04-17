@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+
+    "name": "Slideshare Limit Hidder",
+    "description": "Hide the limit overlay on slideshare",
+    "version": "1",
+    "author": "IchsanN",
+    "content_scripts": [
+        {
+            "matches": ["https://www.slideshare.net/*"],
+            "js": ["slh.js"]
+        }
+    ]
+}
