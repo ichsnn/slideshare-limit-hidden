@@ -1,3 +1,3 @@
 # Slideshare Limit Hidden
 
-Web extensions (Chrome, Edge and more) to hide limit overlays
+Web extensions (Chrome, Edge and more) to hide limit overlays on Slideshare
